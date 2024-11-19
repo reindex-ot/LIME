@@ -3,7 +3,7 @@
 [![Latest Release](https://img.shields.io/github/v/release/Chipppppppppp/LIME?label=latest)](https://github.com/Chipppppppppp/LIME/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-<img src="app/src/main/ic_launcher-playstore.png" width="300" height="300">
+<center><img src="app/src/main/ic_launcher-playstore.png" width="300" height="300"></center>
 
 ## 概要
 
