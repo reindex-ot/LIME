@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <div align="center">
-<img src="app/src/main/ic_launcher-playstore.png" width="400" height="400">
+<img src="app/src/main/ic_launcher-playstore.png" width="350" height="350">
 </div>
 
 ## 概要
