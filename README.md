@@ -1,7 +1,9 @@
-# <img src="app/src/main/ic_launcher-playstore.png" width="60px"> LIME: Ad-killer for LINE
+# LIME: Ad-killer for LINE
 
 [![Latest Release](https://img.shields.io/github/v/release/Chipppppppppp/LIME?label=latest)](https://github.com/Chipppppppppp/LIME/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+<img src="app/src/main/ic_launcher-playstore.png" width="300" height="300">
 
 ## 概要
 
